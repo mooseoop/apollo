@@ -26,6 +26,11 @@ Java客户端不依赖任何框架，能够运行于所有Java运行时环境，
 - [140.143.100.23:8070](http://140.143.100.23:8070/)
 - 账号/密码:apollo/admin
 
+内部演示环境（Demo）：
+- [10.249.221.80:8070]（http://10.249.221.80:8070/）
+- 账号/密码：apollo/admin
+
+
 # Screenshots
 ![配置界面](https://raw.githubusercontent.com/ctripcorp/apollo/master/doc/images/apollo-home-screenshot.png)
 
