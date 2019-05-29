@@ -203,6 +203,7 @@ public class RemoteConfigRepositoryTest {
     assertTrue(request.getUrl().contains("messages=%7B%22details%22%3A%7B%22someKey%22%3A1%7D%7D"));
   }
 
+  
   @Test
   public void testAssembleQueryConfigUrl() throws Exception {
     Gson gson = new Gson();
